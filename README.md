@@ -1,5 +1,5 @@
 <h1 align="center"> Snack House App </h1>
-FastFood is a responsive food website built using HTML5 and Tailwind CSS. It features a clean, modern layout, a well-structured meals section, and a detailed footer.
+Snack House is a responsive food website built using HTML5 and Tailwind CSS. It features a clean, modern layout, a well-structured meals section, and a detailed footer.
 
 <h2> Features</h2>
 
@@ -24,7 +24,7 @@ FastFood is a responsive food website built using HTML5 and Tailwind CSS. It fea
 
 <h2> Screenshots</h2>
 
-<img src="./result/nav.jpeg alt="nav" width="900">
+<img src="./result/nav.jpeg" alt="nav" width="900">
 
 <br><br>
 
